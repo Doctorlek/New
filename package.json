@@ -1,0 +1,9 @@
+{
+  "name": "huggingface-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "transformers": "^4.11.3",
+    "flask": "^2.0.1"
+  }
+}
